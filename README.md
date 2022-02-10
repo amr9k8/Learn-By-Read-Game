@@ -4,7 +4,7 @@
 <br>- Login  &amp; Register
 <br>- Choose Suitable Article Based on keywords 
 <br>- Quiz on each Article with score + 50% to pass
-<br>- User's Level Increases After Pass an Quiz  
+<br>- User's Level Increases After Passing each Quiz  
 <br>- Unlock New Topics Based on Level Progression
 <br>- View All  Conten Creators & Suscribe 
 <br>- Article Have Publish Date , Comments ,Likes
