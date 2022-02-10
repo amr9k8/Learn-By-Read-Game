@@ -18,4 +18,4 @@ https://github.com/amr9k8/Learn-By-Read-Game/blob/main/mo3talearn.mp4
 
 
 # Database Relations
-![image](https://user-images.githubusercontent.com/61662153/116804500-8b0aaa80-ab1f-11eb-82ed-cec31488514b.png)
+![image](https://github.com/amr9k8/Learn-By-Read-Game/blob/fc19a242ee1cd95a78393839bc35d04276bf852a/db%20relation.png)
