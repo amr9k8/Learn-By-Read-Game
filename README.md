@@ -13,7 +13,7 @@ Html , Css <br>
 ### Back-end Technologies Used:  
 PHP ,  Mysql <br>
 # Project Preview 
-https://user-images.githubusercontent.com/61662153/116804410-ceb0e480-ab1e-11eb-8d1f-0dfee56f47b1.mp4
+https://github.com/amr9k8/Learn-By-Read-Game/blob/main/mo3talearn.mp4
 
 # Files Structures
 ![image](https://user-images.githubusercontent.com/61662153/116804487-6f070900-ab1f-11eb-907a-db7ae0c3520b.png)
