@@ -1,5 +1,5 @@
 # Learn-By-Read-Game
-## M3taLearn is an learn by read platform made to help people learn more about nutriton & fitness & general health  and other related topics 
+## M3taLearn is an learn by read WebApplication made to help people learn more about nutriton & fitness & general health  and other related topics 
 ### Main Features :
 <br>- Login  &amp; Register
 <br>- Choose Suitable Article Based on keywords 
