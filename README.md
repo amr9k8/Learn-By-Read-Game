@@ -14,8 +14,6 @@ Html , Css <br>
 ### Back-end Technologies Used:  
 PHP ,  Mysql <br>
 
-# Project Preview 
-https://user-images.githubusercontent.com/61662153/153322902-47d4a18f-3e04-41a3-9688-7f04ab998555.mp4
 
 
 # Database Relations
